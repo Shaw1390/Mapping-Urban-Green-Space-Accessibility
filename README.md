@@ -64,8 +64,3 @@ Based on the analysis of the study area:
 * **Topographical Impact**: Incorporate elevation data to account for slope-adjusted walking distances.
 * **Demographic Overlay**: Join with census data to analyze accessibility equity across different socio-economic groups.
 * **Temporal Analysis**: Compare green space growth against population density changes over the last decade.
-
----
-**Author:** [Your Name]  
-**Portfolio:** [Your Portfolio Link]  
-**LinkedIn:** [Your LinkedIn Profile]
