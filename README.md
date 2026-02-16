@@ -34,7 +34,8 @@ The primary goal is to identify **"green gaps"**—areas where residents lack ea
 4.  **Accessibility Analysis**: 
     * Identified the nearest green space for each residential point.
     * Classified accessibility based on urban planning standards (e.g., the "300m rule").
-<img width="748" height="798" alt="Image" src="https://github.com/user-attachments/assets/ebf89710-7a47-4f6a-a2c3-aa3b5caffd3e" />  
+
+<img width="748" height="798" alt="Image" src="https://github.com/user-attachments/assets/37266d6a-9a3a-4d36-856d-7e523c5a8f46" />
 
 
 ## 📈 Results & Insights
