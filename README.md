@@ -41,7 +41,7 @@ Based on the analysis of the study area:
 * **Average Proximity**: Residents are, on average, only **0.06 km** away from their nearest park.
 * **Urban Design**: The data suggests a highly integrated park system in the sampled district, with **0.0%** of residents living more than 1km from a green space.
 
-* ![Vancouver Map](https://github.com/Shaw1390/Mapping-Urban-Green-Space-Accessibility/blob/main/Assets/Screenshot%202026-02-16%20182406.jpg)
+![Image](https://github.com/user-attachments/assets/d2ce8d29-2ab5-4f00-904b-a4cea335b645)
 
 
 
